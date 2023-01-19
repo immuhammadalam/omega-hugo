@@ -1,8 +1,9 @@
 ---
 banner:
   enable: true
-  title: Impactful Logo Designs that speak for your brand
-  content: Spark Visual Identity of Your Brand with Our Persuasive Designs.
+  title: Impactful Logo Designs
+  content: that speak for your brand <br> Spark Visual Identity of Your Brand with
+    Our Persuasive Designs.
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: true
