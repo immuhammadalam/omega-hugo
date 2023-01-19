@@ -1,13 +1,12 @@
 ---
 banner:
   enable: true
-  title: Logo and web design
-  content: Solving the problems of today to see a tomorrow worth living and a past
-    worth remembering.
+  title: Creating Exclusive Designs to Enhance Your Brand
+  content: Stand apart through our brilliant logo designs.
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: true
-    label: WHAT WE DO
+    label: Start your logo project from $39
     link: "#products"
 mission:
   enable: true
